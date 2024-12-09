@@ -10,7 +10,7 @@ import httpClient from 'lib/httpClient'
 
 dayjs.extend(customParseFormat)
 
-const ManageAccount = () => {
+const ManageUserAccount = () => {
   // useNavigate
   const navigate = useNavigate()
 
